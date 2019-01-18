@@ -1,0 +1,25 @@
+body {
+	border: 20px solid #bdc3c7;
+	margin: 20px auto;
+	max-width: 700px;
+	width: 80%;
+	padding: 20px;
+	font-family: "Source Sans Pro";
+}
+
+/*div {
+	margin: 10px;
+}
+*/
+.quote {
+	border-left: 5px solid grey;
+	padding-left: 10px;
+}
+
+h3 {
+	color: #3498d6;
+}
+
+h2 {
+	color: #2c3e50;
+}
